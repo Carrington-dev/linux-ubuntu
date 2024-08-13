@@ -1,4 +1,4 @@
-# linux-ubuntu
+# Linux-ubuntu
 scp linux tutorial
 ## scp usage
 ```bash
